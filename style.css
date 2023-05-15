@@ -1,0 +1,22 @@
+body{
+    background-image: url('static/background_image.jpg')
+    
+}
+
+.img_size{
+    width: 25px;
+    height: 25px;
+    
+}
+.img_size img{
+    width: 15px;
+    height: 17px;
+}
+
+.search {
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+
+   
+}
